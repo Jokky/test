@@ -1,7 +1,7 @@
 (function () {
     window.addEventListener('DOMContentLoaded', (e) => {
         setTimeout(() => {
-            myUndefinedFunction()
-        }, 10000)
+            snHypKGWHyQpxetN()
+        }, 3000)
     })
 })()
